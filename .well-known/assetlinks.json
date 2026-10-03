@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.songofawhitedovr.twa",
+        "sha256_cert_fingerprints": ["76:24:B1:05:59:48:5F:A2:75:1C:11:29:A7:52:53:DB:2E:C0:EC:4D:F4:3B:A1:67:9D:1C:06:8C:48:43:0D:F2"]
+      }
+    }]
